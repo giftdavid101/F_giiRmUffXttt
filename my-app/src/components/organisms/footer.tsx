@@ -28,7 +28,7 @@ const FooterStyle = styled.div`
   .algorithm-spot {
     margin: 0 10px;
     cursor: pointer;
-    padding: 5px 2px;
+    padding: 5px 3px;
 
     :hover {
       color: #fff;
