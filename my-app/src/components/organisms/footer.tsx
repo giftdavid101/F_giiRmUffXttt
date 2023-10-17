@@ -17,8 +17,6 @@ const Footer = () => {
 
 const FooterStyle = styled.div`
   width: 100%;
-  grid-row: 3;
-
   .foot {
     display: flex;
     justify-content: center;
