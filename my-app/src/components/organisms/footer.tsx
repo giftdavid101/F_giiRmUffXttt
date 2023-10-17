@@ -17,6 +17,7 @@ const Footer = () => {
 
 const FooterStyle = styled.div`
   width: 100%;
+  min-height: 80px;
   .foot {
     display: flex;
     justify-content: center;
