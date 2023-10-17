@@ -13,8 +13,7 @@ const Header = () => {
 
 const HeaderStyle = styled.header`
   width: 100%;
-  //height: 50px;
-  //grid-row: 1;
+  height: 50px;
   box-shadow: rgba(0, 0, 0, 0.24) 0 3px 8px;
   display: flex;
   align-items: center;

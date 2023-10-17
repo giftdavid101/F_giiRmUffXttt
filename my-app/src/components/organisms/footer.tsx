@@ -18,11 +18,9 @@ const Footer = () => {
 const FooterStyle = styled.div`
   width: 100%;
   min-height: 80px;
-  .foot {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-  }
+  display: flex;
+  justify-content: center;
+  align-items: center;
 
   .algorithm-spot {
     margin: 0 6px;
